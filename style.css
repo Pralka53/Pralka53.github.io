@@ -146,10 +146,13 @@ a{
     }
 }
 
+.content-picture{
+    display:flex;
+}
 .pralka-picture{
-    padding-top: 125px;
-    padding-left: 665px;
+    padding-top: 100px;
     width: 590px;
+    margin: auto;
 }
 .userpralka{
     color: #ffffff;
