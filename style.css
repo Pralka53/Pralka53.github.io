@@ -151,6 +151,15 @@ a{
 
 .pralka-picture{
     padding-top: 125px;
-    padding-left: 570px;
-    width: 700px;
+    padding-left: 665px;
+    width: 590px;
+}
+.userpralka{
+    color: #ffffff;
+    font-size: 60px;
+    font-family: 'Encode Sans SC', sans-serif;
+    font-weight: 400;
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 20px;
 }
