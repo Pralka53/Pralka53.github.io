@@ -2,4 +2,4 @@
 Simple website!
 
 
-I don't own any rights to the photos posted on the site
+I don't own any rights to the photos posted on the site.
