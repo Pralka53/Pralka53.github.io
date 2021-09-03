@@ -24,18 +24,3 @@ a{
     width: 590px;
     margin: auto;
 }
-.main-content-userpralka{
-    color: #ffffff;
-    font-size: 60px;
-    font-family: 'Encode Sans SC', sans-serif;
-    font-weight: 400;
-    text-align: center;
-    text-transform: uppercase;
-    padding-top: 20px;
-}
-
-@media only screen and (min-width: 600px){
-} 
-
-@media only screen and (min-width: 748px){
-}
