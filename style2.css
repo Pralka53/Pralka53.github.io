@@ -16,15 +16,15 @@ a{
     height: 100%;
 }
 
-.content-picture{
+.main-content-picture{
     display:flex;
 }
-.pralka-picture{
+.main-content-picture-pralka{
     padding-top: 100px;
     width: 590px;
     margin: auto;
 }
-.userpralka{
+.main-content-userpralka{
     color: #ffffff;
     font-size: 60px;
     font-family: 'Encode Sans SC', sans-serif;
