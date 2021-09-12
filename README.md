@@ -1,2 +1,2 @@
 # Pralka53.github.io
-Simple website!
+A simple page with links to my social media!
